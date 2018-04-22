@@ -178,8 +178,8 @@ beauty_and_the_beast= media.Movie('beauty and the beast',
     'https://lumiere-a.akamaihd.net/v1/images/image_19221b22.jpeg', 
     'https://www.youtube.com/watch?v=vwyZH85NQC4')
 
-# Add movies into list
+# Add each movie to the list
 movies = [toy_story, beauty_and_the_beast]
 
-# Oopen movies
+# Open movies
 open_movies_page(movies)
